@@ -211,7 +211,6 @@ marquee {
 
 /* stories section */
 .stories-container {
-  border: 2px solid red;
   position: relative;
   padding-bottom: 60px;
   background: url(assets/bg.png), linear-gradient(to top, #edd29e, #ffffff);
